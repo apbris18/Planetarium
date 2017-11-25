@@ -1,0 +1,58 @@
+collaboration.txt //for creativeProgram.go
+Alex Brisbois and Jessica Forrett
+April 1st, 2017
+CSCI 324 Professor King
+
+AB, Http://www.injosoft.se Injosoft. "A large collection of ASCII art drawings of astronauts and other related space ASCII art pictures." ASCII Art Astronauts. N.p., n.d. Web. 11 Apr. 2017.
+<http://www.ascii-code.com/ascii-art/space/astronauts.php>
+
+AB, Http://www.injosoft.se Injosoft. "A large collection of ASCII art drawings of moons and other related space ASCII art pictures." ASCII Art Moons. N.p., n.d. Web. 24 Apr. 2017.
+<http://www.ascii-code.com/ascii-art/space/moons.php>
+
+AB, Http://www.injosoft.se Injosoft. "A large collection of ASCII art drawings of planets and other related space ASCII art pictures." ASCII Art Planets. N.p., n.d. Web. 24 Apr. 2017.
+<http://www.ascii-code.com/ascii-art/space/planets.php>
+
+AB, Http://www.injosoft.se Injosoft. "A large collection of ASCII art drawings of sun and other related nature ASCII art pictures." ASCII Art Sun. N.p., n.d. Web. 24 Apr. 2017.
+<http://www.ascii-code.com/ascii-art/nature/sun.php>
+
+Astropixels.com. N.p., n.d. Web. 23 Apr. 2017.
+<http://astropixels.com/ephemeris/astrocal/astrocal2017gmt.html>
+
+"Eccentricity- Astronomy Glossary." All About Astronomy. Enchanted Learning, n.d. Web. 19 Apr. 2017.
+<http://www.enchantedlearning.com/subjects/astronomy/glossary/Eccentricity.shtml>
+
+Fiorenza, Nick Anthony. "Saturn, Saturn's Retrogrades & Earth-Saturn Synodic Cycles." The Lunar Planner: Earth-Saturn Synodic Cycles. N.p., n.d. Web. 22 Apr. 2017.
+<http://www.lunarplanner.com/HCpages/Synodic-Saturn.html>
+
+Go by Example: Goroutines. N.p., n.d. Web. 3 Apr. 2017.
+<https://gobyexample.com/goroutines>
+
+Introductory Astronomy: Ellipses. N.p., n.d. Web. 14 Apr. 2017.
+<http://astro.wsu.edu/worthey/astro/html/lec-ellipse.html>
+
+Masters, Karen. "How can I find the distance to the Sun on any given day? (Advanced)." Home - Curious About Astronomy? Ask an Astronomer. N.p., n.d. Web. 3 Apr. 2017.
+<http://curious.astro.cornell.edu/about-us/41-our-solar-system/the-earth/orbit/80-how-can-i-find-the-distance-to-the-sun-on-any-given-day-advanced>
+
+NASA. NASA, n.d. Web. 24 Apr. 2017.
+<https://science.nasa.gov/science-news/science-at-nasa/2001/ast04jan_1>
+
+"Orbital Data for the Planets & Dwarf Planets." Data Table for Planets & Dwarf Planets: AU, Inclination, Eccentricity - Windows to the Universe. N.p., n.d. Web. 19 Apr. 2017.
+<http://www.windows2universe.org/our_solar_system/planets_orbits_table.html>
+
+"Oppositions, conjunctions, seasons, and ring plane crossings of the giant planets." The Planetary Society Blog. N.p., n.d. Web. 23 Apr. 2017.
+<http://www.planetary.org/blogs/emily-lakdawalla/2016/06031044-oppositions-conjunctions-rpx.html>
+
+"Package math." Math - The Go Programming Language. N.p., n.d. Web.  Apr. 2017.
+<https://golang.org/pkg/math/#Cos>
+
+"Package strconv." Strconv - The Go Programming Language. N.p., n.d. Web. 23 Apr. 2017.
+<https://golang.org/pkg/strconv/#FormatFloat>
+
+Planets - Zoom Astronomy. N.p., n.d. Web. 14 Apr. 2017.
+<http://www.enchantedlearning.com/subjects/astronomy/planets/>
+
+"Riff Blog." Golang fun : adding methods to primitive types | Riff Blog. N.p., n.d. Web. 20 Apr. 2017.
+<http://blog.riff.org/2014_07_19_golang_fun_adding_methods_to_primitive_types>
+
+Ventrudo, Brian. "Brian Ventrudo." One Minute Astronomer. N.p., 11 June 2013. Web. 22 Apr. 2017.
+<http://oneminuteastronomer.com/8626/keplers-laws/>
